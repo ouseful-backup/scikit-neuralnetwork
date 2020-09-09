@@ -19,7 +19,8 @@ import theano
 import sklearn.base
 import sklearn.pipeline
 import sklearn.preprocessing
-import sklearn.cross_validation
+#import sklearn.cross_validation
+import sklearn.model_selection
 
 import theano.tensor as T
 import lasagne.layers
